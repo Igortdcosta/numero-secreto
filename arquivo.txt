@@ -1,1 +1,0 @@
-Exemplo de arquivo que será ignorado através do gitignore
